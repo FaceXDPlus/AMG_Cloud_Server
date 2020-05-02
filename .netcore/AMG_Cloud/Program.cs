@@ -29,7 +29,6 @@ namespace AMG_Cloud
         static void Main(string[] args)
         {
             Console.WriteLine(Globle.APPName + " 运行版本:" + Globle.APPVersion);
-            Globle.APPVersion = "21212";
             Globle.ServeIPMessage = new Dictionary<string, Dictionary<string, string>>();
             Globle.ServeIPMessageTime = new Dictionary<string, int>();
 

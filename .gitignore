@@ -1,3 +1,7 @@
-.vs/
-AMG_Cloud/bin/
-AMG_Cloud/obj/
+.netcore/.vs/
+.netcore/AMG_Cloud/bin/
+.netcore/AMG_Cloud/obj/
+.netform/.vs/
+.netform/AMG_Server_GUI/bin/
+.netform/AMG_Server_GUI/obj/
+.netform/packages/
